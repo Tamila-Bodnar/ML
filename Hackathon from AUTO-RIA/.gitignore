@@ -1,6 +1,4 @@
 .idea/*
-images/*
 nomeroff-net/*
 .ipynb_checkpoints/*
 dataset/*
-model.h5
